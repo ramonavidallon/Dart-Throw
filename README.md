@@ -25,4 +25,15 @@
   <li> Bootstrap </li>
   <li> Google Fonts </li>
   <li> Additional resources used: Wikipedia API, Mapping, Place Pictures (Unsplash), Sky Scanner widget
+   </ul>
+   
+   ![Screen Shot 2019-06-20 at 11 17 40 AM](https://user-images.githubusercontent.com/43662571/59871829-458acd00-934d-11e9-9942-b5ac6ea856b9.png)
+![Screen Shot 2019-06-20 at 11 18 17 AM](https://user-images.githubusercontent.com/43662571/59871831-458acd00-934d-11e9-87ab-3c38360cc023.png)
+![Screen Shot 2019-06-20 at 11 19 10 AM](https://user-images.githubusercontent.com/43662571/59871835-458acd00-934d-11e9-918f-79231663d94a.png)
+![Screen Shot 2019-06-20 at 11 18 39 AM](https://user-images.githubusercontent.com/43662571/59871832-458acd00-934d-11e9-96ce-dfb55ee14b0b.png)
+![Screen Shot 2019-06-20 at 11 18 50 AM](https://user-images.githubusercontent.com/43662571/59871833-458acd00-934d-11e9-8725-8b044b585cff.png)
+
+   
+
+
 
