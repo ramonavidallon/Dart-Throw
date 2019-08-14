@@ -1,6 +1,9 @@
 <h1> Dart Throw </h1>
 <hr>
 
+<h2> Deployed Link </h2<
+  <h3> https://ramonavidallon.github.io/Dart-Throw/ </h3>
+
 <h2> Team members </h2>
 <ul>
   <li> Kai Richardson (UX/UI) </li>
